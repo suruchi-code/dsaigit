@@ -1,3 +1,4 @@
 # dsaigit
 this is my dump code space for dsai
-Author- Suruchi
+Author- Suruchi Shrivastava
+
